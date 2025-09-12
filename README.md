@@ -1,5 +1,5 @@
-# Master of Operational Oceanography Thesis
-TRACKING HYDROTHERMAL DIFFUSE FLOW WITH MULTIBEAM SONAR: INSIGHTS FROM COVIS (2019–2023)
+# TRACKING HYDROTHERMAL DIFFUSE FLOW WITH MULTIBEAM SONAR: INSIGHTS FROM COVIS (2019–2023)
+Master of Operational Oceanography Thesis
 
 This repository contains Python code that analyzes multi-beam sonar data collected by the Cabled Observatory Vent Imaging Sonar (COVIS) system located at the ASHES hydrothermal vent field. The primary dataset, available in the `heat_flux_results.zip` archive, was initially processed using MATLAB to extract heat flux density and fractional area data from diffuse hydrothermal flows for the period from 2019 to 2023. The provided Jupyter Notebook processes this data to create time series plots, heat flux density visualizations, and statistical summaries. An `environment.yml` file is included to recreate the exact Python environment used for this analysis.
 
