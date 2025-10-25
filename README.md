@@ -7,7 +7,7 @@ The overall purpose of this repository is sharing code used to analyze and visua
 
 ## Repository Structure
 - `heat_flux_results.zip`: Contains MATLAB-processed heat flux density data (.mat files) for 2019-2023.
-- `plot_av_heat_flux_dens`: Jupyter Notebook that reads, processes, analyzes, and plots the heat flux data.
+- `MOO_Thesis_2025_Final`: Jupyter Notebook that reads, processes, analyzes, and plots the heat flux data.
 - `environment.yml`: YAML file listing Python package dependencies needed to run the notebook.
 
 ## How to Run
