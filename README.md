@@ -28,7 +28,7 @@ conda activate covis-analysis
 
 3. Unzip the `heat_flux_results.zip` file in the repository directory.
 
-4. Open and run `plot_av_heat_flux_dens` in Jupyter Lab or Jupyter Notebook.
+4. Open and run `MOO_Thesis_2025_Final` in Jupyter Lab or Jupyter Notebook.
 
 ## Requirements
 
